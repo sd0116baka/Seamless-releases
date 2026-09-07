@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Seamless</title><item><title>Seamless 1.1.0 (1005)</title><description>Seamless 1.1.0 (1005)
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Seamless</title><item><title>Seamless 1.6.2 (1011)</title><description>Seamless 1.6.2 (1011)
 
 Nightly 测试版本，包含最新开发改动。
 Windows：运行安装包；后续更新由应用内更新器完成。
 macOS：解压后放入应用程序目录。
-Android：安装 APK。</description><sparkle:version>1005</sparkle:version><sparkle:shortVersionString>1.1.0</sparkle:shortVersionString><enclosure url="https://github.com/sd0116baka/Seamless-releases/releases/download/v1.1.0-nightly.1005/Seamless-macos.zip" length="43805037" type="application/octet-stream" sparkle:os="macos" sparkle:edSignature="eJed1ij/4nOHl4Q90uok4v2+QEi1VxLaMKHBRim0ArWd+lN9gm5BxlOsmyPilO3bEwAg0JZTdd0HYFGrvL0LCQ==" /></item></channel></rss>
+Android：安装 APK。</description><sparkle:version>1011</sparkle:version><sparkle:shortVersionString>1.6.2</sparkle:shortVersionString><enclosure url="https://github.com/sd0116baka/Seamless-releases/releases/download/v1.6.2-nightly.1011/Seamless-macos.zip" length="50497647" type="application/octet-stream" sparkle:os="macos" sparkle:edSignature="/hKVW4FThbIIJpF7YGGtwNwJzUu5K/w46IVnKHmcMiw7WKncAAummA/12/1Hvf9qZu72zw98nxDbEzPjG9chDA==" /></item></channel></rss>
