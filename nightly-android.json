@@ -1,7 +1,7 @@
 {
-  "version": "1.6.3",
-  "build": 1013,
-  "notes": "Seamless 1.6.3 (1013)\n\nNightly 测试版本，包含最新开发改动。\nWindows：运行安装包；后续更新由应用内更新器完成。\nmacOS：解压后放入应用程序目录。\nAndroid：安装 APK。",
-  "url": "https://github.com/sd0116baka/Seamless-releases/releases/download/v1.6.3-nightly.1013/Seamless-android.apk",
-  "sha256": "9bf9e9a4089d2820bde30203c62b45d75b12ad32e72430983ed6bd9662649c93"
+  "version": "1.7.4",
+  "build": 1019,
+  "notes": "Seamless 1.7.4 (1019)\n\nNightly 测试版本，包含最新开发改动。\nWindows：运行安装包；后续更新由应用内更新器完成。\nmacOS：解压后放入应用程序目录。\nAndroid：安装 APK。",
+  "url": "https://github.com/sd0116baka/Seamless-releases/releases/download/v1.7.4-nightly.1019/Seamless-android.apk",
+  "sha256": "6020fc9d32779ff3ed9b702e481c89c81013c7b843b4fd6cb8dfc13a2b339bc6"
 }
