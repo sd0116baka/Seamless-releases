@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Seamless</title><item><title>Seamless 1.7.4 (1019)</title><description>Seamless 1.7.4 (1019)
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Seamless</title><item><title>Seamless 1.8.2 (1020)</title><description>Seamless 1.8.2 (1020)
 
 Nightly 测试版本，包含最新开发改动。
 Windows：运行安装包；后续更新由应用内更新器完成。
 macOS：解压后放入应用程序目录。
-Android：安装 APK。</description><sparkle:version>1.7.4+1019</sparkle:version><sparkle:shortVersionString>1.7.4</sparkle:shortVersionString><enclosure url="https://github.com/sd0116baka/Seamless-releases/releases/download/v1.7.4-nightly.1019/Seamless-windows-setup.exe" length="28241395" type="application/octet-stream" sparkle:os="windows" sparkle:dsaSignature="MEQCIGw8CCySaCG++IOOihu+oA5NQucQN8VR9neCe0/HY/4GAiADdD4Cq25qljfocmWDqH/+KcdUHjsOCZ8B08Gd2wpfeQ==" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /CLOSEAPPLICATIONS" /></item></channel></rss>
+Android：安装 APK。</description><sparkle:version>1.8.2+1020</sparkle:version><sparkle:shortVersionString>1.8.2</sparkle:shortVersionString><enclosure url="https://github.com/sd0116baka/Seamless-releases/releases/download/v1.8.2-nightly.1020/Seamless-windows-setup.exe" length="28250952" type="application/octet-stream" sparkle:os="windows" sparkle:dsaSignature="MEUCIQDErmxFEI5RwKJhZGEvlWnspNz7bBcfx4CloctDg1/2lwIgbeu9RhyiO2813QsBmWewjjbao9YHeRkQC8/tT4f1JF4=" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /CLOSEAPPLICATIONS" /></item></channel></rss>
